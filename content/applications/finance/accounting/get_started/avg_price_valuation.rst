@@ -26,13 +26,21 @@ valuation <inventory/avg_price/leaving_inventory>`.
 .. note::
    This document addresses a specific use case for theoretical purposes. For instructions on how to
    set up and use |AVCO|, refer to the :doc:`inventory valuation configuration
-   <../../../inventory_and_mrp/inventory/warehouses_storage/inventory_valuation/inventory_valuation_config>`
+   <../../../inventory_and_mrp/inventory/product_management/inventory_valuation/inventory_valuation_config>`
    doc.
 
 .. seealso::
    - :doc:`Using inventory valuation
+<<<<<<< 17.0
      <../../../inventory_and_mrp/inventory/warehouses_storage/inventory_valuation/using_inventory_valuation>`
    - :ref:`Other inventory valuation methods <inventory/warehouses_storage/costing_methods>`
+||||||| 70905915c4d65d86e302415a09e41ee71e674f3c
+     <../../../inventory_and_mrp/inventory/warehouses_storage/inventory_valuation/using_inventory_valuation>`
+   - :ref:`Other inventory valuation methods <inventory/inventory_valuation_config/costing_methods>`
+=======
+     <../../../inventory_and_mrp/inventory/product_management/inventory_valuation/using_inventory_valuation>`
+   - :ref:`Other inventory valuation methods <inventory/inventory_valuation_config/costing_methods>`
+>>>>>>> 21a416c068471ad477e955697884678d7d3648f8
 
 Configuration
 =============
@@ -44,7 +52,7 @@ product category page, set :guilabel:`Costing Method` to `Average Cost (AVCO)` a
 
 .. seealso::
    :doc:`Inventory valuation configuration
-   <../../../inventory_and_mrp/inventory/warehouses_storage/inventory_valuation/inventory_valuation_config>`
+   <../../../inventory_and_mrp/inventory/product_management/inventory_valuation/inventory_valuation_config>`
 
 Using average cost valuation
 ============================
